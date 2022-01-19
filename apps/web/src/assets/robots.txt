@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanity-angular-tailwindcss-website-web-sd7tp5m5.netlify.app
